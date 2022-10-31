@@ -1,0 +1,11 @@
+h1{
+   color:rgb(23, 42, 122);
+   font-size: 5em;
+}
+
+li{
+    list-style-type: none;
+}
+.special{
+    color: red;
+}
